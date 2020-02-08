@@ -1,8 +1,8 @@
-# Lightmask 2D Pack
+# Lightmask 2D
 
-I made these light to be used inside godot with the Light2D but it can be used inside other software.
-I will probably make more and will add them here ...
-Some can be weird but I keep everything I made because they had interesting effect inside Godot.
+A pack of Lightmask I made to be used inside Godot with the Light2D. They can be used inside other software without any problems.
+Some can be weird but I keep everything I made because they had interesting effect inside Godot and could be usefull in some situations.
+I will make more of these and add them inside this repository.
 
 # Preview
 ![Preview of all lightmasks](preview.png)
