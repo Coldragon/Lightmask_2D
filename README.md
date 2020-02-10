@@ -7,5 +7,8 @@ I will make more of these and add them inside this repository.
 # Preview
 ![Preview of all lightmasks](preview.png)
 
+# Contributing
+You can contribute to this repos if you want, you will be credited but the lightmask must be CC0
+
 # Licence
 Made by Coldragon and distributed under CC0 1.0 Universal : [Full Licence](LICENSE.md)
